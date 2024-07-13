@@ -17,10 +17,6 @@ User@NewAge MINGW64 ~/Desktop/Задания/Тест ПО/GIT (master)
 $ cd \New-Test-Repository
 
 User@NewAge MINGW64 ~/Desktop/Задания/Тест ПО/GIT/New-Test-Repository (master)
-$ git commit -m "Test commit remove name"
-Author identity unknown
-
-User@NewAge MINGW64 ~/Desktop/Задания/Тест ПО/GIT/New-Test-Repository (master)
 $ git config --global user.email "lazutin.simon@gmail.com"
 
 User@NewAge MINGW64 ~/Desktop/Задания/Тест ПО/GIT/New-Test-Repository (master)
